@@ -12,6 +12,7 @@ As the pdf file is too large to upload, users can convert the markdown source fi
 ---------------------------------------New modifications----------------------------------------------------------------------
 
 新增了课程所有章节对应的pdf文件，不需要用户再手动对markdown文件进行转换。
+
 Added pdf files corresponding to all chapters of the course, no need for users to manually convert markdown files.
 
 -------------------------------------------------------------------------------------------------------------------------------
